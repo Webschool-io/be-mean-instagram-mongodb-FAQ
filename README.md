@@ -35,4 +35,4 @@ Antes de começar a traduzir por favor crie uma [Issue](https://github.com/Websc
 
 Depois click em `assing yourself`.
 
-![](./images/translate-assingnee.png)
+![](./images/translate-assignee.png)
