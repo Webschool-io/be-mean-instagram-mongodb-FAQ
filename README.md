@@ -15,4 +15,4 @@ Será passado na **ÚLTIMA AULA** ainda essa semana!!
 
 ### Prazo
 
-**Não possui prazo final!! Você só precisa ter visto todas as aulas, seu LIKE no vídeo confira sua "presença", e ter entregue todos os exercícios. 
+**Não possui prazo final!! Você só precisa ter visto todas as aulas, seu LIKE no vídeo confira sua "presença", e ter entregue todos os exercícios.** 
