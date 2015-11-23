@@ -16,3 +16,21 @@ Será passado na **ÚLTIMA AULA** ainda essa semana!!
 ### Prazo
 
 **Não possui prazo final!! Você só precisa ter visto todas as aulas, seu LIKE no vídeo confira sua "presença", e ter entregue todos os exercícios.** 
+
+## Legendas das aulas
+
+### Adesivos
+
+Caso você queira contribuir com a disseminação desse conteúdo e queira legendar uma aula terá que primeiramente traduzir para o Português, com isso você já ganhará uns adesivos a sua escolha, para depois traduzir para outra língua.
+
+### Camisetas
+
+Você traduzindo a legenda do Português, ou outra língua, para alguma que ainda não tenha sido traduzida, você ganhará 1 camiseta a sua escolha **POR AULA**.
+
+### Tradução
+
+Antes de começar a traduzir por favor crie uma [Issue](https://github.com/Webschool-io/be-mean-instagram/issues/new) e preencha dessa forma.
+
+![(./)
+
+Depois click em `assing yourself`.
