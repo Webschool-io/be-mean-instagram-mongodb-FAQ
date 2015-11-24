@@ -32,7 +32,3 @@ Você traduzindo a legenda do Português, ou outra língua, para alguma que aind
 Antes de começar a traduzir por favor crie uma [Issue](https://github.com/Webschool-io/be-mean-instagram/issues/new) e preencha dessa forma.
 
 ![](./images/translate-issue.png)
-
-Depois click em `assing yourself`.
-
-![](./images/translate-assignee.png)
